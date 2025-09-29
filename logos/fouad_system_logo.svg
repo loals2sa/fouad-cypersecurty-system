@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(0,180,216);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(138,43,226);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Wave Symbol -->
+  <g id="wave-symbol">
+    <!-- Main wave shape -->
+    <ellipse cx="512" cy="328" rx="180" ry="40" fill="url(#waveGradient)" transform="rotate(-10 512 328)"/>
+    <ellipse cx="512" cy="348" rx="180" ry="40" fill="url(#waveGradient)" transform="rotate(10 512 348)"/>
+    <rect x="332" y="308" width="360" height="60" fill="url(#waveGradient)" rx="30"/>
+    
+    <!-- Left triangle accent -->
+    <polygon points="280,328 320,298 320,358" fill="rgb(0,180,216)"/>
+    
+    <!-- Right triangle accent -->
+    <polygon points="744,328 704,298 704,358" fill="rgb(0,180,216)"/>
+    
+    <!-- Accent lines -->
+    <line x1="332" y1="318" x2="692" y2="318" stroke="rgb(0,255,255)" stroke-width="3" opacity="0.7"/>
+    <line x1="332" y1="338" x2="692" y2="338" stroke="rgb(0,255,255)" stroke-width="3" opacity="0.7"/>
+    <line x1="332" y1="358" x2="692" y2="358" stroke="rgb(0,255,255)" stroke-width="3" opacity="0.7"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="512" y="620" font-family="Arial, sans-serif" font-size="120" font-weight="bold" 
+        text-anchor="middle" fill="#FFFFFF">FOUAD SYSTEM</text>
+  
+  <!-- Tagline -->
+  <text x="512" y="690" font-family="Arial, sans-serif" font-size="40" 
+        text-anchor="middle" fill="rgb(0,200,255)" opacity="0.8">ADVANCED LINUX DISTRIBUTION</text>
+</svg>
