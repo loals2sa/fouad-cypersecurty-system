@@ -1,0 +1,71 @@
+I'll provide you the LICENSE content here so you can copy it:
+
+---
+
+## **LICENSE FILE CONTENT:**
+
+```text
+MIT License
+
+Copyright (c) 2025 Fouad Zalaf (@1.pvl)
+
+Contact:
+- Email: zalaffouad37@gmail.com
+- Instagram: @1.pvl
+
+CyberFouad OS - Professional Cybersecurity Linux Distribution
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===============================================================================
+
+IMPORTANT DISCLAIMER:
+
+CyberFouad OS is designed for authorized security testing, ethical hacking,
+and educational purposes only. Users must:
+
+1. Obtain proper authorization before testing any systems
+2. Comply with all applicable laws and regulations
+3. Use tools responsibly and ethically
+4. Respect privacy and computer crime laws
+
+Unauthorized access to computer systems is ILLEGAL.
+
+The developers of CyberFouad OS are not responsible for any misuse or damage
+caused by this software.
+
+===============================================================================
+
+Developer: Fouad Zalaf
+Email: zalaffouad37@gmail.com
+Instagram: @1.pvl
+Project: CyberFouad OS
+Year: 2025
+```
+
+---
+
+## **To Create the File:**
+
+```bash
+cd "/home/kali/Desktop/New Folder 2/CyberFouad_OS"
+nano LICENSE
+# Paste the content above
+# Press Ctrl+X, then Y, then Enter to save
+```
